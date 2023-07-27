@@ -1,0 +1,19 @@
+.main-box{
+    background-color: aqua;
+    text-align: center;
+    align-content: center;
+    border-style: solid;
+    border-radius: 10px;
+    width: 50%;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.name-box{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
