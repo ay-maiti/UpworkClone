@@ -1,11 +1,12 @@
 import "./LandingPage.css"
 
-export default function LandingPage(){
-    return(
+
+export default function LandingPage() {
+    return (
         <>
             <nav className="nav_bar">
                 <div className="nav_left">
-                    <img id="home_logo" src="./src/assets/upwork-logo.png" alt="logo"/>
+
                     <ul className="nav_links">
                         <li>Find Talent</li>
                         <li>Find Work</li>
@@ -18,7 +19,7 @@ export default function LandingPage(){
                     <button>Sign Up</button>
                 </div>
             </nav>
-            <hr/>
+            <hr />
         </>
     )
 }

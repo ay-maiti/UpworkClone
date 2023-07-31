@@ -1,4 +1,4 @@
-.nav_bar{
+.nav_bar {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -6,30 +6,25 @@
     height: 40px;
 }
 
-#home_logo{
-    width: 120px;
-    height: 32px;
-}
 
-.nav_links{
+
+.nav_links {
     display: flex;
-    margin: 0px 10px;
+    margin: 0px 140px;
     list-style-type: none;
 }
 
-li{
-    margin:10px;
+li {
+    margin: 10px;
 }
 
-.nav_left{
-    display:flex;
+.nav_left {
+    display: flex;
 }
 
-.nav_right{
-    
-}
+.nav_right {}
 
-button{
+button {
     margin: 0px 20px;
     padding: 15px;
     border-radius: 15px;
